@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌱 I’m currently learning R for data analysis.
+🌱 I’m currently learning R and Python for data analysis. I have previously taken courses in R for Data Mining and Python for Biologists. I would love to be able to expand my knowledge and use of these programming tools.
 
 <!--
 **cominisc/cominisc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
